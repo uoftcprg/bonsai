@@ -74,6 +74,10 @@ de2a826e2b1a06bd1c8aceb30e7e1c8897d684a4cecf6135e5bc053635213c5d  games/open-spi
 9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa  games/open-spiel/kuhn-poker.rounds
 4be3dd90e6c21a4d1ae5b6e40de96e933c159c1544ccafb8f184e9c5f893bcfe  games/open-spiel/kuhn-poker.sfps.npz
 d6258cf58c211bb2b523eb60f1c28004eded831a42ebc7ff8903ae7de44f7adb  games/open-spiel/kuhn-poker.us.npz
+1c034c63d54bd23773e15d801473b6bd24345b2388d93b6108f8f44417d67984  games/open-spiel/latent-ttt.maps.npz
+4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865  games/open-spiel/latent-ttt.rounds
+890f7a4a2047543e19b3f65ebbe76608d81b3eff95360a8bd46320f2526795bf  games/open-spiel/latent-ttt.sfps.npz
+f531ddf5430f1301d70ba0fdea38046316ad887824fe1f0b55a042e2ef911302  games/open-spiel/latent-ttt.us.npz
 75ee179f85fa220495e3026e8ced7852437acd149d48ad3011a032ac828ed5be  games/open-spiel/leduc-poker.maps.npz
 4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865  games/open-spiel/leduc-poker.rounds
 73fd1c9a7b745d1e2a23dfe1c8d2641aa0ed6d851bfd3f0e251a31d220a75b8c  games/open-spiel/leduc-poker.sfps.npz
