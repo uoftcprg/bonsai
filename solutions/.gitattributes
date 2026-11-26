@@ -1,0 +1,7 @@
+exp-a-spiel/abrupt-dark-hex-3.txt filter=lfs diff=lfs merge=lfs -text
+huflhe/numeral211-holdem.txt filter=lfs diff=lfs merge=lfs -text
+huflhe/rhode-island-holdem.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/liars-dice-1-10.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/liars-dice-2-5.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/libratus-endgames-subgame-1.txt filter=lfs diff=lfs merge=lfs -text
+open-spiel/oshi-zumo-7-2-7.txt filter=lfs diff=lfs merge=lfs -text
